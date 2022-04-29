@@ -60,8 +60,8 @@ Preview some predictions from the model:
 
 <p>First Image to Predict:</p>
 <img src = "https://github.com/gnpaone/Potato-quality-classification/blob/main/Pictures/test.png">
-<p>Actual Label: imarti</p>
-<p>Predicted Label: imarti</p>
+<p>Actual Label: Defective</p>
+<p>Predicted Label: Defective</p>
 
 Now, let's examine in more detail how the model performs and evaluate those predictions.
 
